@@ -12,7 +12,7 @@ export default function Home({ itemData }) {
       </Head>
 
       <main>
-        <h1 className="m-4 text-3xl text-center font-bold">Welcome to <a href="https://nextjs.org" className="text-blue-600	hover:underline">Next.js</a>!</h1>
+        <h1 className="m-4 text-3xl text-center font-bold">Welcome to <span className="text-blue-600">Next.js</span>!</h1>
 
         <div className="flex justify-evenly flex-wrap">
           {itemData.map((item) => {
