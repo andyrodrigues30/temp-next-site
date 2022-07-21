@@ -1,3 +1,13 @@
 {
-  "itemTitle": "title goes here"
+  "equipment":[
+    {
+      "itemTitle": "Title One Goes Here"
+    },
+    {
+      "itemTitle": "Title Two Goes Here"
+    },
+    {
+      "itemTitle": "Title Three Goes Here"
+    }
+  ]
 }
